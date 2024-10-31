@@ -6,4 +6,4 @@ Basic student attendance app
 
 
 
-##The list of username passwords are stored on server.js if you want to check it out
+#The list of username passwords are stored on server.js if you want to check it out
